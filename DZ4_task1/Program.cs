@@ -20,4 +20,5 @@ for (int i = 1; i < b; i++)
     }
 return res;
 }
+
 Console.WriteLine("Проверка " + Math.Pow(numA,numB));
